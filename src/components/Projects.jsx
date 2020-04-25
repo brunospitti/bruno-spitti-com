@@ -135,14 +135,11 @@ const StyledTextFromString = styled(TextFromString)`
 
 const StyledButtonHolder = styled.div`
   position: absolute;
-  bottom: 200px;
+  bottom: -70px;
   left: 0;
   width: 100%;
   text-align: center;
   z-index: 9999;
-  @media ${breakpoints.mobile} {
-    bottom: 120px;
-  }
   button {
     border-bottom: 1px solid;
     border-radius: 0;
