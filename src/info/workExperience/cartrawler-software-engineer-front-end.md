@@ -3,7 +3,8 @@ templateKey: workExperience
 index: "1"
 title: CarTrawler - Software Engineer (Front-end)
 period: 09/2017 - Present
-brief_description: Development of landing pages and widgets; agile software
+brief_description: Development of fully responsive products built with high end
+  technologies; 100% code coverage; continuous integration; agile software
   development; fast paced; github workflow; weekly releases; code reviews;
   embarking and training of new developers.
 technologies:
